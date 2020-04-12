@@ -14,4 +14,4 @@ chicago.csv
 new_york_city.csv
 
 ### Credits
-Thanks to my mentor for this project.
+Thanks to family for the support during this project.
