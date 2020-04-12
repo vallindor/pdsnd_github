@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+This project has been created on the 12/04/2020
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data with Pandas
 
 ### Description
-Describe what your project is about and what it does
+The project is part of the Programming for Data Science Nanodegree Program, I used Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.  The code helps answer questionsregarding the data. The script takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ### Files used
-Include the files used
+Bikeshare.csv
+washington.csv
+chicago.csv
+new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Thanks to my family for the support during this project and to the mentor.
