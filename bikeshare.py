@@ -122,7 +122,7 @@ def station_stats(df):
 
 
 def trip_duration_stats(df):
-    """Displays statistics on the total and average trip duration."""
+    """Displays mean of the total and average trip duration."""
 
     print('\nCalculating Trip Duration...\n')
     start_time = time.time()
@@ -167,6 +167,7 @@ def user_stats(df):
     print('-'*40)
 
 def display_raw(df):
+    """Ask to the user if they want to see the raw data"""
     answers=['yes','no']
     check=input('Do you want to see 5 lines of raw data? Reply with a yes or no').lower()
     start=0
