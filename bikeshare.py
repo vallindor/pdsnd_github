@@ -167,6 +167,7 @@ def user_stats(df):
     print('-'*40)
 
 def display_raw(df):
+    """Useful if someone want to see the raw data"""
     answers=['yes','no']
     check=input('Do you want to see 5 lines of raw data? Reply with a yes or no').lower()
     start=0
