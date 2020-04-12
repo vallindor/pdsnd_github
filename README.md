@@ -5,7 +5,7 @@ This project has been created on the 12/04/2020
 Explore US Bikeshare Data
 
 ### Description
-The project is part of the Programming for Data Science Nanodegree Program, it uses Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.  The code helps answer questionsregarding the data. When running it is e a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
+The project is part of the Programming for Data Science Nanodegree Program, I used Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.  The code helps answer questionsregarding the data. The script takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ### Files used
 Bikeshare.csv
@@ -14,4 +14,4 @@ chicago.csv
 new_york_city.csv
 
 ### Credits
-Thanks to my mentor for this project. 
+Thanks to my mentor for this project.
