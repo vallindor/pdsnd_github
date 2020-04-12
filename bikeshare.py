@@ -122,7 +122,7 @@ def station_stats(df):
 
 
 def trip_duration_stats(df):
-    """Displays the mean of the total and average trip duration."""
+    """Displays statistics on the total and average trip duration."""
 
     print('\nCalculating Trip Duration...\n')
     start_time = time.time()
@@ -139,7 +139,7 @@ def trip_duration_stats(df):
     print('-'*40)
 
 def user_stats(df):
-    """Displays max min mode on bikeshare users."""
+    """Displays statistics on bikeshare users."""
 
     print('\nCalculating User Stats...\n')
     start_time = time.time()
